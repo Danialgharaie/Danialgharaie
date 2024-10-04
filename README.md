@@ -8,11 +8,11 @@ I am a Pharm.D student with a strong interest in computational biology, specific
 #### 💻 Tech Stack:
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 #### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=danialgharaee&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danialgharaee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=danialgharaie&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danialgharaie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=danialgharaee&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=danialgharaie&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=danialgharaee&icon=0&color=0)](https://visitcount.itsvg.in)

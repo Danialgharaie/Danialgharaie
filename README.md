@@ -14,5 +14,5 @@ I am a Pharm.D student with a strong interest in computational biology, specific
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=danialgharaie&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=danialgharaee&icon=0&color=0)](https://visitcount.itsvg.in)
 

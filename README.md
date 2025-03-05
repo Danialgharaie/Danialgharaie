@@ -10,9 +10,3 @@ I am a Pharm.D student with a strong interest in computational biology, specific
 #### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danialgharaie&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danialgharaie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=danialgharaee&icon=0&color=0)](https://visitcount.itsvg.in)
-

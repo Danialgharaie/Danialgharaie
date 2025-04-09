@@ -1,5 +1,5 @@
 ### 🧬 About Me:
-I am a Pharm.D student with a strong interest in computational biology, specifically protein design. I am currently an intern at [Neurosnap](https://neurosnap.ai/), working on democratizing bioinformatics tools and conducting research to implement new tools and guides. I also have a passion for functional programming languages like Lisp and Scheme.
+I am a Pharm.D student with a strong interest in computational biology, specifically protein design. I am currently a Research Associate at [Neurosnap](https://neurosnap.ai/), working on democratizing bioinformatics tools and conducting research to implement new tools and guides. I also have a passion for functional programming languages like Lisp and Scheme.
 
 
 #### 🌐 Socials:
